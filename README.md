@@ -1,6 +1,10 @@
-# FreeCodeCamp Youtube Tutorial (Lesson 6) : Hardhat Simple Storage
+# Blockchain Crash Course - Lesson 06
+## Hardhat Simple Storage
+By freeCodeCamp.org
 
-[Full Blockchain Solidity Course JS (Lesson 6)](https://github.com/smartcontractkit/full-blockchain-solidity-course-js#lesson-6-hardhat-simple-storage)
+[Youtube Video](https://youtu.be/gyMwXuJrbJQ)  
+[freeCodeCamp Blog Post](https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/)  
+[github repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js#lesson-6-hardhat-simple-storage)
 
 ## Setup
 
